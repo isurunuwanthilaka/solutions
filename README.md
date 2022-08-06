@@ -1,3 +1,3 @@
 # Problems
 
-Practising DSA
+Practising DSA and DS
